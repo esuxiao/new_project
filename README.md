@@ -3,3 +3,4 @@
 2. git push: pass
 3. create new branch:pass: 
 4. merge: pass
+5. vscode: clone: pass
