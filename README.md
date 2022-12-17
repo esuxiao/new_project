@@ -4,3 +4,5 @@
 3. create new branch:pass: 
 4. merge: pass
 5. vscode: clone: pass
+6. vscode: push: pass
+7. vscode: create new branch
