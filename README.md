@@ -7,3 +7,4 @@
 6. vscode: push: pass
 7. vscode: create new branch: pass
 8. vscode: merge new branch: pass
+9. Upload working mmeta v3.0 package
