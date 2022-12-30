@@ -10,7 +10,8 @@ importFrom("stats", "rnorm", "runif")
 useDynLib(mmeta,.registration = TRUE)
 
 # Exported functions
-export(singletable,multipletables,
-        plot.multipletables,  summary.multipletables,
-       plot.singletable, summary.singletable
+export(SingleTable.create,SingleTable.modelFit,
+        SingleTable.summary,  SingleTable.plot,
+        MultipeTables.create, MultipeTables.modelFit,
+       MultipeTables.summary,MultipeTables.plot
        )
